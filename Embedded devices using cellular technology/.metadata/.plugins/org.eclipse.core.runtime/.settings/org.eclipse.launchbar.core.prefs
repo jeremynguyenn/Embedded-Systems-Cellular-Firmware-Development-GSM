@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_A6_driver_1,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10__Hardware_modules-button,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:11__Hardware_modules-adc,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:12__Hardware_modules-rtc_init,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:13__A6_app_hdrw_ctrl_frm_sms,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:14__A6_app_hdrw_ctrl_frm_call,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:15__A6_app_hdrw_send_sms,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:16__A6_app_rtc_sensor_sms,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_A6_driver_systick,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2_A6_fifo,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_A6_lib,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:4_A6_lib_sms,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:5_A6_lib_making_a_call,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:6_A6_lib_drop_call,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:7_A6_lib_receive_sms,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:8_A6_lib_processing_raw_sms,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:9__Hardware_modules,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:17__A6_app_rtc_sensor_sms-periodic
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_A6_driver_1/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_A6_driver_1/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10__Hardware_modules-button/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:11__Hardware_modules-adc/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:12__Hardware_modules-rtc_init/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:13__A6_app_hdrw_ctrl_frm_sms/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_A6_lib/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:6_A6_lib_drop_call/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:8_A6_lib_processing_raw_sms/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:9__Hardware_modules/activeLaunchMode=run

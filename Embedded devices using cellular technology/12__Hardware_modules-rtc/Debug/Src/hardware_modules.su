@@ -1,0 +1,8 @@
+hardware_modules.c:18:6:light_init	4	static
+hardware_modules.c:30:6:light_on	4	static
+hardware_modules.c:37:6:light_off	4	static
+hardware_modules.c:45:6:button_init	4	static
+hardware_modules.c:56:6:get_btn_state	4	static
+hardware_modules.c:74:6:pa1_adc_init	4	static
+hardware_modules.c:100:6:start_conversion	4	static
+hardware_modules.c:109:10:adc_read	4	static

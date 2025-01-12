@@ -1,0 +1,10 @@
+13:34:40 **** Incremental Build of configuration Debug for project 13__A6_app_hdrw_ctrl_frm_sms ****
+make -j8 all 
+arm-none-eabi-size   13__A6_app_hdrw_ctrl_frm_sms.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10276	    152	   3264	  13692	   357c	13__A6_app_hdrw_ctrl_frm_sms.elf
+Finished building: default.size.stdout
+ 
+
+13:34:40 Build Finished. 0 errors, 0 warnings. (took 382ms)
+

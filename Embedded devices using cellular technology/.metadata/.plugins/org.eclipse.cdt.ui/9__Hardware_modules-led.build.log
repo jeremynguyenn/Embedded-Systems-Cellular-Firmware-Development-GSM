@@ -1,0 +1,10 @@
+18:43:24 **** Incremental Build of configuration Debug for project 9__Hardware_modules-led ****
+make -j8 all 
+arm-none-eabi-size   9__Hardware_modules-led.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1292	      8	   2952	   4252	   109c	9__Hardware_modules-led.elf
+Finished building: default.size.stdout
+ 
+
+18:43:24 Build Finished. 0 errors, 0 warnings. (took 377ms)
+

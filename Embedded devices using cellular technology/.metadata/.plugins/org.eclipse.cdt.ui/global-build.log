@@ -1,0 +1,14 @@
+10:21:51 **** Incremental Build of configuration Debug for project 17__A6_app_rtc_sensor_sms-periodic ****
+make -j8 all 
+arm-none-eabi-size   17__A6_app_rtc_sensor_sms-periodic.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11764	    156	   3308	  15228	   3b7c	17__A6_app_rtc_sensor_sms-periodic.elf
+Finished building: default.size.stdout
+ 
+10:22:02 **** Incremental Build of configuration Debug for project 17__A6_app_rtc_sensor_sms-periodic ****
+make -j8 all 
+arm-none-eabi-size   17__A6_app_rtc_sensor_sms-periodic.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11764	    156	   3308	  15228	   3b7c	17__A6_app_rtc_sensor_sms-periodic.elf
+Finished building: default.size.stdout
+ 

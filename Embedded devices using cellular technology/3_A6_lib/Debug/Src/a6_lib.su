@@ -1,0 +1,14 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+a6_lib.c:25:6:a6_module_init	8	static
+a6_lib.c:60:16:a6_startup_test	16	static
+a6_lib.c:84:16:a6_signal_quality	16	static
+a6_lib.c:109:16:a6_network_reg	16	static
+a6_lib.c:133:16:a6_module_name	16	static
+a6_lib.c:159:13:cpy_to_uart	16	static
+a6_lib.c:177:13:uart_output_char	16	static
+a6_lib.c:189:13:to_lower	16	static
+a6_lib.c:203:13:wait_resp	16	static
+a6_lib.c:214:13:search_check	24	static
+a6_lib.c:239:13:a6_process_data	16	static
+a6_lib.c:262:13:a6_send_cmd	24	static
+a6_lib.c:272:6:USART1_IRQHandler	8	static

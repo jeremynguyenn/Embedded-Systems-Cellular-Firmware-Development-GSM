@@ -1,0 +1,6 @@
+a6_driver.c:21:5:__io_putchar	16	static
+a6_driver.c:27:6:debug_uart_init	8	static
+a6_driver.c:80:6:a6_uart_init	8	static
+a6_driver.c:130:6:a6_uart_write_char	16	static
+a6_driver.c:140:13:debug_uart_write	16	static
+a6_driver.c:149:17:compute_uart_bd	16	static

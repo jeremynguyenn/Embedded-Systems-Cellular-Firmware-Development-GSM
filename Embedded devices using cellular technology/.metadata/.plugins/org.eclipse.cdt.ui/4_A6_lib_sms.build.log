@@ -1,0 +1,10 @@
+18:43:21 **** Incremental Build of configuration Debug for project 4_A6_lib_sms ****
+make -j8 all 
+arm-none-eabi-size   4_A6_lib_sms.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7840	    152	   2672	  10664	   29a8	4_A6_lib_sms.elf
+Finished building: default.size.stdout
+ 
+
+18:43:21 Build Finished. 0 errors, 0 warnings. (took 659ms)
+

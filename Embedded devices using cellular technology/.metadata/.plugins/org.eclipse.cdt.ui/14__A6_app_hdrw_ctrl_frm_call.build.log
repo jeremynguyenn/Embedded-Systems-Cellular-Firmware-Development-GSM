@@ -1,0 +1,20 @@
+09:34:10 **** Incremental Build of configuration Debug for project 14__A6_app_hdrw_ctrl_frm_call ****
+make -j8 all 
+arm-none-eabi-gcc "../Src/a6_lib.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F411RETx -DSTM32F411xE -c -I../Inc -I"C:/Users/Gaming Laptop RTX/Documents/Embedded-BareMetal-GSM/14__A6_app_hdrw_ctrl_frm_call/chip_headers/CMSIS/Include" -I"C:/Users/Gaming Laptop RTX/Documents/Embedded-BareMetal-GSM/14__A6_app_hdrw_ctrl_frm_call/chip_headers/CMSIS/Device/ST/STM32F4xx/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/a6_lib.d" -MT"Src/a6_lib.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/a6_lib.o"
+arm-none-eabi-gcc -o "14__A6_app_hdrw_ctrl_frm_call.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Gaming Laptop RTX\Documents\Embedded-BareMetal-GSM\14__A6_app_hdrw_ctrl_frm_call\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="14__A6_app_hdrw_ctrl_frm_call.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 14__A6_app_hdrw_ctrl_frm_call.elf
+ 
+arm-none-eabi-objdump -h -S  14__A6_app_hdrw_ctrl_frm_call.elf  > "14__A6_app_hdrw_ctrl_frm_call.list"
+arm-none-eabi-objcopy  -O binary  14__A6_app_hdrw_ctrl_frm_call.elf  "14__A6_app_hdrw_ctrl_frm_call.bin"
+arm-none-eabi-size   14__A6_app_hdrw_ctrl_frm_call.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10392	    152	   3264	  13808	   35f0	14__A6_app_hdrw_ctrl_frm_call.elf
+Finished building: default.size.stdout
+ 
+Finished building: 14__A6_app_hdrw_ctrl_frm_call.bin
+ 
+Finished building: 14__A6_app_hdrw_ctrl_frm_call.list
+ 
+
+09:34:11 Build Finished. 0 errors, 0 warnings. (took 1s.202ms)
+

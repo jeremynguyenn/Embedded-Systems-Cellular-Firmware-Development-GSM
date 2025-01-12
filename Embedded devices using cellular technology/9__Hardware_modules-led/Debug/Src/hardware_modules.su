@@ -1,0 +1,3 @@
+hardware_modules.c:6:6:light_init	4	static
+hardware_modules.c:18:6:light_on	4	static
+hardware_modules.c:25:6:light_off	4	static

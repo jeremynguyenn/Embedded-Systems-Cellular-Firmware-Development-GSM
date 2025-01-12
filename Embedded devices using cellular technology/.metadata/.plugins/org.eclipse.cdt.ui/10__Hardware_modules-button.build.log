@@ -1,0 +1,10 @@
+18:43:16 **** Incremental Build of configuration Debug for project 10__Hardware_modules-button ****
+make -j8 all 
+arm-none-eabi-size   10__Hardware_modules-button.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1372	      8	   2952	   4332	   10ec	10__Hardware_modules-button.elf
+Finished building: default.size.stdout
+ 
+
+18:43:16 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

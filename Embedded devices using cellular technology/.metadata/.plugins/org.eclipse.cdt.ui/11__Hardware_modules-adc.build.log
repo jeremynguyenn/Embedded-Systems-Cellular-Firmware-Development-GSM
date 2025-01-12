@@ -1,0 +1,10 @@
+18:43:17 **** Incremental Build of configuration Debug for project 11__Hardware_modules-adc ****
+make -j8 all 
+arm-none-eabi-size   11__Hardware_modules-adc.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1520	      8	   2960	   4488	   1188	11__Hardware_modules-adc.elf
+Finished building: default.size.stdout
+ 
+
+18:43:17 Build Finished. 0 errors, 0 warnings. (took 328ms)
+

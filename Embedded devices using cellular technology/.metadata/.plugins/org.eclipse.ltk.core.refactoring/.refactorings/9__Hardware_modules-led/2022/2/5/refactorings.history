@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;9__Hardware_modules/Src/hardware_module.c&apos; to &apos;hardware_modules.c&apos;" description="Rename resource &apos;hardware_module.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Src/hardware_module.c" name="hardware_modules.c" stamp="1643880354026" updateReferences="true"/>
+</session>

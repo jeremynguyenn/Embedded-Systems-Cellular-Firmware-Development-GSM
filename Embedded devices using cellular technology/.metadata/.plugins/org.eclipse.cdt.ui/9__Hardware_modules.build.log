@@ -1,0 +1,10 @@
+09:37:19 **** Incremental Build of configuration Debug for project 9__Hardware_modules ****
+make -j8 all 
+arm-none-eabi-size   9__Hardware_modules.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1292	      8	   2952	   4252	   109c	9__Hardware_modules.elf
+Finished building: default.size.stdout
+ 
+
+09:37:20 Build Finished. 0 errors, 0 warnings. (took 385ms)
+
